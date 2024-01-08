@@ -31,5 +31,3 @@ app.listen(PORT, (err) => {
 
     console.log(color.yellow(`Server started on http://localhost:${PORT}`))
 })
-
-export default app
